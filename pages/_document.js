@@ -15,7 +15,10 @@ class MyDocument extends Document {
             httpEquiv="Content-Type"
             content="text/html; charset=ISO-8859-1"
           />
-          <meta name="description" content="A webapp which's screen is white" />
+          <meta
+            name="description"
+            content="A webapp which's background is white"
+          />
 
           <meta property="og:type" content="website" />
           <meta
@@ -24,7 +27,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="A webapp which's screen is white"
+            content="A webapp which's background is white"
           />
           <meta name="twitter:card" content="summary_large_image" />
           <link rel="shortcut icon" href="/favicon.jpg" />
