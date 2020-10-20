@@ -1,2 +1,3 @@
 # White Background
-# white-screen
+
+**A web app which's background is white**
